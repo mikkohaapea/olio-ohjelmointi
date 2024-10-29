@@ -1,7 +1,6 @@
 #include "funktiot.h"
 
 void calcSum(int num1, int num2) {
-    //cout << num1 << "+" << num2 << "=" << num1+num2 << endl;
     cout << num1 + num2 << endl;
 }
 
@@ -10,7 +9,6 @@ void calcDiv(int num1, int num2) {
         cout << "Nollalla ei voi jakaa!" << endl;
     }
     else {
-        //cout << num1 << "/" << num2 << "=" << float(num1) / float(num2) << endl;
         cout << float(num1) / float(num2) << endl;
     }
 }

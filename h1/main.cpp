@@ -16,8 +16,6 @@ int main()
     cout << "calcDiv: ";
     calcDiv(a,b);
     //Vaihe 3
-    //int summa = retSum(a, b);
-    //float osamaara = retDiv(a, b);
     cout << "retSum: ";
     int summa = retSum(a, b);
     cout << summa << endl;
