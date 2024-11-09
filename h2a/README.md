@@ -73,10 +73,12 @@ Luo C++-ohjelma, jossa määritellään luokka nimeltä *Student*. Tällä luoka
   - *average*: reaaliluku, joka sisältää opiskelijan keskiarvon
 
 - Metodit:
+
   Setterit:
   - *setName(string)*: asettaa opiskelijan nimen
   - *setStudentNumber(int)*: asettaa opiskelijanumeron
   - *setAverage(double)*: asettaa opiskelijan keskiarvon
+  
   Getterit:
   - *string getName()*: palauttaa opiskelijan nimen
   - *int getStudentNumber()*: palauttaa opiskelijanumeron(merkkimuotoinen tunniste)
