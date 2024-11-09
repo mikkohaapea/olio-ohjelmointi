@@ -4,4 +4,12 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        car.cpp \
+        main.cpp \
+        rectangle.cpp \
+        student.cpp
+
+HEADERS += \
+    car.h \
+    rectangle.h \
+    student.h
