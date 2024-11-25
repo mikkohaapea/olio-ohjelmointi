@@ -5,7 +5,7 @@ Miksi tässä käytetään koostetta eikä perintää?
 - Ei voida sanoa, että auto on rengas tai rengas on auto, joten perintä ei tule kysymykseen
 - Voidaan sanoa, että autossa on rengas, ja autossa on moottori, siksi siis kooste.
 
-**HUOM!:** Luo kullekin luokalle reillinen h-tiedosto ja cpp-tiedosto.
+**HUOM!:** Luo kullekin luokalle erillinen h-tiedosto ja cpp-tiedosto.
 
 # Harjoitus4 (kompositio)
 
