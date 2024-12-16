@@ -13,11 +13,11 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-void MainWindow::updateDisplay(int)
+void MainWindow::updateDisplay(int numberToString)
 {
     // Muuttaa counter-muuttujan arvon QStringiksi ja päivittää
     // txtResult -widgetissä ja labelInfo -widgetissä näkyvän luvun
-    QString s = QString::number(counter);
+    QString s = QString::number(numberToString);
     ui->txtResult->setText(s);
     ui->labelInfo->setText("Painiketta painettu " + s + " kertaa");
 }
